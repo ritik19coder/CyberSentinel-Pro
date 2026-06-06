@@ -121,7 +121,7 @@ samples/sample_security_logs.txt
 
 Add your screenshots here after pushing to GitHub:
 
-```markdown
+
 ## Screenshots
 
 ### Dashboard
@@ -129,7 +129,6 @@ Add your screenshots here after pushing to GitHub:
 
 ### PDF Report
 ![PDF Report Screenshot](screenshots/report.png)
-```
 
 ## Future Improvements
 
