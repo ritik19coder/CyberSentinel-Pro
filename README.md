@@ -122,7 +122,12 @@ samples/sample_security_logs.txt
 Add your screenshots here after pushing to GitHub:
 
 ```markdown
-![Dashboard Screenshot](screenshots/dashboard.png)
+## Screenshots
+
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.jpg)
+
+### PDF Report
 ![PDF Report Screenshot](screenshots/report.png)
 ```
 
