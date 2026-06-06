@@ -125,7 +125,7 @@ Add your screenshots here after pushing to GitHub:
 ## Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.jpg)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ### PDF Report
 ![PDF Report Screenshot](screenshots/report.png)
