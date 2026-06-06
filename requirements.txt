@@ -1,0 +1,10 @@
+flask>=3.0.0
+pyngrok>=7.1.0
+openai>=1.30.0
+pandas>=2.0.0
+plotly>=5.20.0
+scikit-learn>=1.4.0
+reportlab>=4.0.0
+kaleido>=0.2.1
+nest-asyncio>=1.6.0
+matplotlib>=3.8.0

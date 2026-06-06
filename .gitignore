@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+*.env
+secrets.*
+*.key
+*.pem
+
+# Logs and generated reports
+*.log
+*.tmp
+*.pdf
+reports/
+exports/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/

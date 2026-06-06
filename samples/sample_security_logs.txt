@@ -1,0 +1,5 @@
+2026-06-06 10:13:22 firewall alert: TCP port scan detected from 45.33.32.156 to 192.168.1.10 dpt=22
+2026-06-06 10:15:03 sshd: failed login invalid user admin from 51.38.12.44 port 4432 ssh2 denied failed failed
+2026-06-06 10:18:41 webapp: SQL injection attempt from 83.21.55.20 GET /login?id=1 OR 1=1 UNION SELECT password FROM users
+2026-06-06 10:21:10 ids: malware c2 callback detected from 150.25.77.90 to 10.0.0.5 HTTPS
+2026-06-06 10:29:51 proxy: path traversal attempt from 190.10.20.30 GET /../../etc/passwd
